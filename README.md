@@ -2,7 +2,7 @@
 
 🙋‍♂️ Hello !
 
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects
+Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects. Hope you like it ;)
 
 ## 📚 Table of Contents
 - [SQL](#sql)
